@@ -8,6 +8,11 @@ short-description: BlocJams is a basic music steaming app.
 
 {:.center}
 ![]({{ site.baseurl }}/img/Bloc-Jams-Home.png)
+<br>
+<br>
+<a href="https://github.com/RIttera13/bloc-jams">GitHub Link To Vanilla JS Version</a>
+<br>
+<a href=" https://github.com/RIttera13/bloc-jams-angular">GitHub Link To Angular Version</a>
 
 ## Explanation
 
@@ -16,7 +21,7 @@ BlocJams is the first project I participated in. It was built with vanilla JS an
 
 ## Problem
 
-There were lots of “problems” on this build, but that was expected since this was my first real exposure to the world of web development. The steps take to move my knowledge of basic JS and HTML into a practical application were frustrating and fulfilling at the same time. The real frustrations came from tying all the little parts I learned from coding lessons into a working app.
+There were lots of learning opportunities on this build, but that was expected since this was my first real exposure to the world of web development. The steps take to move my knowledge of basic JS and HTML into a practical application were frustrating and fulfilling at the same time. The real frustrations came from tying all the little parts I learned from coding lessons into a working app.
 
 ## Solution
 

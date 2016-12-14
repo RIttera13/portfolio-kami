@@ -15,7 +15,7 @@ Cryptic Post is a site loosely based on the “Reddit” format. It is a place f
 
 ## Problem
 
-Creating the site was an interesting adventure into some neat features that are more complex than they appear to be on the surface. Getting the voting feature working (looking) as intended was one of the more challenging aspects of the build.
+Creating the site was an interesting adventure into some neat features that are more complex than they appear to be on the surface. Getting the voting feature working and looking as intended was one of the more challenging aspects of the build.
 
 ## Solution
 
